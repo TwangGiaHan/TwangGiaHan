@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Gia Han<br><br>- 🔭 I’m working as an AI/ML Engineer, mostly playing around with data, models, and interesting problems.<br>- 📚 Currently leveling up in MLOps, LLMs, and distributed training.<br></p>
+<p align="left">I'm Gia Han from University of Information Technology, VNU-HCM (HCMUIT)<br><br>- 🔭 I’m working as an AI/ML Engineer, mostly playing around with data, models, and interesting problems.<br>- 📚 Currently leveling up in MLOps, LLMs, and distributed training.<br>- ⚡ In my free time, I build small AI tools, read tech blogs, and join data/AI competitions.</p>
 
 ###
 
